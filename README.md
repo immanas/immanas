@@ -1,3 +1,6 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+<h1 align="center">Hi 👋, I'm MANAS GANTAIT</h1>
+<h3 align="center">A passionate frontend developer from India.</h3>
 # 💫 About Me:
 Hi, I'm Manas Gantait — a passionate learner and developer exploring the world of technology!<br>Currently focused on IoT, wireless communication, and software development, I enjoy building practical projects that solve real-world problems.<br><br>🎓 Final-year B.Tech student | 2026 pass-out<br><br>💡 Interests: Embedded Systems, Web Development, AI/ML, and Cybersecurity<br><br>👨‍💻 Currently working on: hands-on projects using ESP32, Python, and React<br><br>🌱 Learning: Cloud Computing, Git/GitHub, and system design principles<br><br>📫 Reach Me Out: imgantait@gmail.com<br><br>👔 Check Out on LinkedIn: https://www.linkedin.com/in/me-m-gantait
 
