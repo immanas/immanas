@@ -4,7 +4,7 @@
 
 
 # 🦁 About Me :
-<br>🎓 Final-year B.Tech student | 2026 pass-out<br><br>💡 Interests: Cloud Computing, Web Development, AI/ML, and Devops<br><br>👨‍💻 Currently working on: hands-on projects using AWS,GCP,AZURE services, Python, and AI Tools<br><br>🌱 Learning: Cloud Computing, Deep Learning, and system design principles<br><br>📫 Reach Me Out: imgantait@gmail.com<br><br>👔 Check Out on LinkedIn: https://www.linkedin.com/in/me-m-gantait
+<br>🎓 Final-year B.Tech student | 2026 pass-out<br><br>💡 Interests: Cloud Computing, AI/ML, Devops , Cloud architecture<br><br>👨‍💻 Currently working on: hands-on projects using AWS,GCP,AZURE services, Python, and AI Tools<br><br>🌱 Learning:  Deep Learning, Genrative AI, and system design principles<br><br>📫 Reach Me Out: imgantait@gmail.com<br><br>👔 Check Out on LinkedIn: https://www.linkedin.com/in/me-m-gantait
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manas.gantait.8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/immanas__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/me-m-gantait) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/memanas__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imgantait@gmail.com) 
