@@ -34,7 +34,83 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manas.gantait.8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/immanas__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/me-m-gantait) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/memanas__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imgantait@gmail.com) 
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<h3>👨‍💻 Programming and Markup Languages</h3>
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-03599C.svg?logo=c&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+</p>
+
+<h3>🧰 Frameworks and Libraries</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+  <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github-actions&logoColor=white">
+  <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white">
+</p>
+
+<h3>🗄️ Databases and Cloud</h3>
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
+  <img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6.svg?logo=amazondynamodb&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazon-aws&logoColor=white">
+  <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4.svg?logo=google-cloud&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white">
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white">
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4.svg?logo=terraform&logoColor=white">
+</p>
+
+<h4>☁️ AWS Core Services</h4>
+<p>
+  <!-- Core -->
+  <img alt="EC2" src="https://img.shields.io/badge/AWS%20EC2-FF9900.svg?logo=amazon-ec2&logoColor=white">
+  <img alt="S3" src="https://img.shields.io/badge/AWS%20S3-569A31.svg?logo=amazon-s3&logoColor=white">
+  <img alt="Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?logo=awslambda&logoColor=white">
+  <img alt="RDS" src="https://img.shields.io/badge/AWS%20RDS-527FFF.svg?logo=amazonrds&logoColor=white">
+  <img alt="CloudWatch" src="https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B.svg?logo=amazoncloudwatch&logoColor=white">
+  
+  <!-- Advanced/Pro -->
+  <img alt="DynamoDB" src="https://img.shields.io/badge/AWS%20DynamoDB-4053D6.svg?logo=amazondynamodb&logoColor=white">
+  <img alt="EKS" src="https://img.shields.io/badge/AWS%20EKS-FF9900.svg?logo=amazoneks&logoColor=white">
+  <img alt="ECS" src="https://img.shields.io/badge/AWS%20ECS-FF9900.svg?logo=amazonecs&logoColor=white">
+  <img alt="API Gateway" src="https://img.shields.io/badge/AWS%20API%20Gateway-FF4F00.svg?logo=amazonapigateway&logoColor=white">
+  <img alt="CloudFormation" src="https://img.shields.io/badge/AWS%20CloudFormation-FF9900.svg?logo=amazoncloudformation&logoColor=white">
+  <img alt="IAM" src="https://img.shields.io/badge/AWS%20IAM-DD344C.svg?logo=amazoniam&logoColor=white">
+  <img alt="SNS" src="https://img.shields.io/badge/AWS%20SNS-FF4F00.svg?logo=amazonsimpleemailservice&logoColor=white">
+  <img alt="SQS" src="https://img.shields.io/badge/AWS%20SQS-FF4F00.svg?logo=amazonsqs&logoColor=white">
+  <img alt="Athena" src="https://img.shields.io/badge/AWS%20Athena-0073BB.svg?logo=amazonathena&logoColor=white">
+  <img alt="SageMaker" src="https://img.shields.io/badge/AWS%20SageMaker-1D6F42.svg?logo=amazonsagemaker&logoColor=white">
+</p>
+
+
+<h3>💻 Software and Tools</h3>
+<p>
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?logo=kalilinux&logoColor=white">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+  <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white">
+  <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white">
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellijidea&logoColor=white">
+  <img alt="Oracle VM VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61.svg?logo=virtualbox&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-3A3A3A.svg?logo=cursor&logoColor=white">
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=immanas&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=immanas&theme=shadow_red&hide_border=false)<br/>
