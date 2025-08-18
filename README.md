@@ -4,7 +4,31 @@
 
 
 # 🦁 About Me :
-<br>🎓 Final-year B.Tech student | 2026 pass-out<br><br>💡 Interests: Cloud Computing, AI/ML, Devops , Cloud architecture<br><br>👨‍💻 Currently working on: hands-on projects using AWS,GCP,AZURE services, Python, and AI Tools<br><br>🌱 Learning:  Deep Learning, Genrative AI, and system design principles<br><br>📫 Reach Me Out: imgantait@gmail.com<br><br>👔 Check Out on LinkedIn: https://www.linkedin.com/in/me-m-gantait
+<img align="right" alt="Coding" width="500" height="300" src="https://media3.giphy.com/media/9mf6jvRks7viuKgCWt/source.gif">
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=mgantait&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="mgantait" />
+
+- 🎓 I’m a **Final-year B.Tech CSE student | 2026 pass-out**
+
+- 💡 Interests: **Cloud Computing, AI/ML, DevOps, Cloud Architecture**
+
+- 👨‍💻 Currently working on **hands-on projects using AWS, GCP, Azure, Python, and AI tools**
+
+- 🌱 Learning: **Deep Learning, Generative AI, and System Design principles**
+
+- <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="22" height="22" /> I’m interested in learning **new technologies**
+
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="22" height="22" /> Ask me about **AI ML, DSA, Web Development, Cloud, Devops**
+
+- 📫 Reach me at **imgantait@gmail.com**
+
+- 👔 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/me-m-gantait)
+
+- ⚡ Fun fact: **I love building real-world projects that merge Cloud + AI**
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manas.gantait.8) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/immanas__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/me-m-gantait) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/memanas__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imgantait@gmail.com) 
