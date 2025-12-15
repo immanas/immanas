@@ -1,21 +1,22 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-<h1 align="center">Hi There, I'm Manas Gantait!😎<br></h1>
-<h3 align="center"> A passionate  cloud-native developer and AI enthusiast. Currently focused on Machine Learning, wireless communication, and software development, I enjoy building practical projects that solve real-world problems.</h3>
+<h1 align="center">Software Engineering Student | Java Specialist | Multi-Cloud  Architect<br></h1>
+<h3 align="center"> Hi There, I'm Manas Gantait!😎 Java developer with expertise in building scalable microservices and cloud-native applications. Hands-on experience with AWS, Azure, and GCP. Skilled in infrastructure automation, containerization, and CI/CD pipelines. Passionate about solving complex infrastructure challenges and optimizing deployment pipelines.
+<h4>Experience: JPMorgan Chase Software Engineer (Virtual) | AWS Solutions Specialist (Virtual)</h4> </h3>
 
 
 # 🦁 About Me :
-<img align="right" alt="Coding" width="500" height="300" src="https://media3.giphy.com/media/9mf6jvRks7viuKgCWt/source.gif">
+<img align="right" alt="Coding" width="500" height="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWljaGx4enA5bzJ4YnNiOXVqNzV3YWg0Ymp6Y2Q4MGtnbDdqcDl3biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif">
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=mgantait&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="mgantait" />
 
-- 🎓 I’m a **Final-year B.Tech CSE student | 2026 pass-out**
+- 🎓 I’m a **Final-year B.Tech CSE student | 2026 pass-out | Strong in DSA using JAVA**
 
-- 💡 Interests: **Cloud Computing, AI/ML, DevOps, Cloud Architecture**
+- 💡 Interests: **Software Developer, Java Developer, Cloud Computing, DevOps, Multicloud & Solution architec**
 
 - 👨‍💻 Currently working on **hands-on projects using AWS, GCP, Azure, Python, and AI tools**
 
-- 🌱 Learning: **Deep Learning, Generative AI, and System Design principles**
+- 🌱 Learning: **Artificial Intelligence, MLOps, Generative AI & Prompt Engineering**
 
 - <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="22" height="22" /> I’m interested in learning **new technologies**
 
