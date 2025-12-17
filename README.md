@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-<h1 align="center">Software Engineering Student | Java Specialist | Multi-Cloud  Architect<br></h1>
+<h1 align="center">Software Engineering Student | Java & Backend Specialist |         DevOps | Multi-Cloud  Architect<br></h1>
 <h3 align="center"> Hi There, I'm Manas Gantait!😎 Java developer with expertise in building scalable microservices and cloud-native applications. Hands-on experience with AWS, Azure, and GCP. Skilled in infrastructure automation, containerization, and CI/CD pipelines. Passionate about solving complex infrastructure challenges and optimizing deployment pipelines.
 <h4>Experience: JPMorgan Chase Software Engineer (Virtual) | AWS Solutions Specialist (Virtual)</h4> </h3>
 
