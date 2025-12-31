@@ -1,7 +1,18 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-<h1 align="center">Software Engineering Student | Java & Backend Specialist |         DevOps | Multi-Cloud  Architect<br></h1>
-<h3 align="center"> Hi There, I'm Manas Gantait!😎 Java developer with expertise in building scalable microservices and cloud-native applications. Hands-on experience with AWS, Azure, and GCP. Skilled in infrastructure automation, containerization, and CI/CD pipelines. Passionate about solving complex infrastructure challenges and optimizing deployment pipelines.
-<h4>Experience: JPMorgan Chase Software Engineer (Virtual) | AWS Solutions Specialist (Virtual)</h4> </h3>
+<h2 align="center">Software engineer | DevOps | Backend  Specialist | Cloud Engineer | Solution Architect 
+<br></h2>
+<h3 align="center">
+Hi There, I’m Manas Gantait   
+</h3>
+
+<p align="center">
+Software engineer building backend systems and cloud-native platforms designed to scale, recover,<br> and last — working at the intersection of software engineering, reliability, and cloud infrastructure <br> by designing distributed services, automating failure-prone workflows, shipping production-ready systems using <br>event-driven architectures, CI/CD-driven delivery, and infrastructure automation across multi-cloud environments.
+</p>
+
+
+<p align="center">
+<strong>Experience:</strong> JPMorgan Chase — Software Engineering (Virtual) || AWS — Solutions Architecture (Virtual)
+</p>
 
 
 # 🦁 About Me :
@@ -21,7 +32,7 @@
 - <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="22" height="22" /> I’m interested in learning **new technologies**
 
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="22" height="22" /> Ask me about **AI ML, DSA, Web Development, Cloud, Devops**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="22" height="22" /> Ask me about **System Design, Networks, DSA, Web Development, Cloud, Devops**
 
 - 📫 Reach me at **imgantait@gmail.com**
 
@@ -47,7 +58,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
 </p>
 
-<h3>🧰 Frameworks and Libraries</h3>
+<h3>🧰 Cloud & Infrastructure</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
   <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
