@@ -109,6 +109,40 @@ Software engineer building backend systems and cloud-native platforms designed t
 
 </p>
 
+<h4>☁️ Azure Core Services</h4>
+<p>
+  <!-- Core -->
+  <img alt="Azure Virtual Machines" src="https://img.shields.io/badge/Azure%20VMs-0078D4.svg?logo=microsoft-azure&logoColor=white">
+  <img alt="Azure Blob Storage" src="https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4.svg?logo=microsoft-azure&logoColor=white">
+  <img alt="Azure Functions" src="https://img.shields.io/badge/Azure%20Functions-0062AD.svg?logo=azure-functions&logoColor=white">
+  <img alt="Azure SQL Database" src="https://img.shields.io/badge/Azure%20SQL-0078D4.svg?logo=microsoft-sql-server&logoColor=white">
+  <img alt="Azure Monitor" src="https://img.shields.io/badge/Azure%20Monitor-0078D4.svg?logo=microsoft-azure&logoColor=white">
+
+  <!-- Advanced/Pro -->
+  <img alt="Azure Cosmos DB" src="https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4.svg?logo=azure-cosmos-db&logoColor=white">
+  <img alt="Azure Kubernetes Service" src="https://img.shields.io/badge/Azure%20AKS-0078D4.svg?logo=kubernetes&logoColor=white">
+  <img alt="Azure API Management" src="https://img.shields.io/badge/Azure%20API%20Management-0078D4.svg?logo=microsoft-azure&logoColor=white">
+  <img alt="Azure Resource Manager" src="https://img.shields.io/badge/Azure%20ARM-0078D4.svg?logo=microsoft-azure&logoColor=white">
+  <img alt="Azure Active Directory" src="https://img.shields.io/badge/Azure%20AD-0078D4.svg?logo=microsoft-azure&logoColor=white">
+</p>
+<h4>☁️ GCP Core Services</h4>
+<p>
+  <!-- Core -->
+  <img alt="Compute Engine" src="https://img.shields.io/badge/GCP%20Compute%20Engine-4285F4.svg?logo=google-cloud&logoColor=white">
+  <img alt="Cloud Storage" src="https://img.shields.io/badge/GCP%20Cloud%20Storage-4285F4.svg?logo=google-cloud&logoColor=white">
+  <img alt="Cloud Functions" src="https://img.shields.io/badge/GCP%20Cloud%20Functions-4285F4.svg?logo=google-cloud&logoColor=white">
+  <img alt="Cloud SQL" src="https://img.shields.io/badge/GCP%20Cloud%20SQL-4285F4.svg?logo=google-cloud&logoColor=white">
+  <img alt="Cloud Monitoring" src="https://img.shields.io/badge/GCP%20Cloud%20Monitoring-4285F4.svg?logo=google-cloud&logoColor=white">
+
+  <!-- Advanced/Pro -->
+  <img alt="Firestore" src="https://img.shields.io/badge/GCP%20Firestore-FFCA28.svg?logo=firebase&logoColor=black">
+  <img alt="Google Kubernetes Engine" src="https://img.shields.io/badge/GCP%20GKE-4285F4.svg?logo=kubernetes&logoColor=white">
+  <img alt="API Gateway" src="https://img.shields.io/badge/GCP%20API%20Gateway-4285F4.svg?logo=google-cloud&logoColor=white">
+  <img alt="Cloud IAM" src="https://img.shields.io/badge/GCP%20IAM-4285F4.svg?logo=google-cloud&logoColor=white">
+  <img alt="Pub/Sub" src="https://img.shields.io/badge/GCP%20Pub%2FSub-4285F4.svg?logo=google-cloud&logoColor=white">
+</p>
+
+
 
 <h3>💻 Software and Tools</h3>
 <p>
