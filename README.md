@@ -169,20 +169,31 @@ Software engineer building backend systems and cloud-native platforms designed t
 
 
 
-<h3>💻 Software and Tools</h3>
+<h3>💻 Software Tools & Frameworks</h3>
 <p>
-  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?logo=kalilinux&logoColor=white">
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white">
+  <!-- Version Control & Tools -->
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
   <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white">
   <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white">
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+
+  <!-- Dev & API Tools -->
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white">
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white">
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellijidea&logoColor=white">
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellijidea&logoColor=white">
   <img alt="Oracle VM VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61.svg?logo=virtualbox&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
   <img alt="Cursor" src="https://img.shields.io/badge/Cursor-3A3A3A.svg?logo=cursor&logoColor=white">
+
+  <!-- Frameworks -->
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black">
+
+  <!-- Testing & Engineering Practices -->
+  <img alt="JUnit" src="https://img.shields.io/badge/JUnit%20Testing-25A162.svg?logo=junit5&logoColor=white">
+  <img alt="Unit Testing" src="https://img.shields.io/badge/Unit%20Testing-0A66C2.svg?logo=testinglibrary&logoColor=white">
+  <img alt="Debugging" src="https://img.shields.io/badge/Debugging-FF9800.svg?logo=bugcrowd&logoColor=white">
+  <img alt="Code Reviews" src="https://img.shields.io/badge/Code%20Reviews-4CAF50.svg?logo=github&logoColor=white">
+  <img alt="Validation" src="https://img.shields.io/badge/Validation-9C27B0.svg?logo=checkmarx&logoColor=white">
 </p>
 
 ## :computer_mouse: Work Experience :desktop_computer:
