@@ -75,13 +75,11 @@ Software engineer building backend systems and cloud-native platforms designed t
 <h3>🗄️ Databases and Cloud</h3>
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
-  <img alt="DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6.svg?logo=amazondynamodb&logoColor=white">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazon-aws&logoColor=white">
-  <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4.svg?logo=google-cloud&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white">
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white">
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4.svg?logo=terraform&logoColor=white">
+<img alt="AWS DynamoDB" src="https://img.shields.io/badge/AWS%20DynamoDB-4053D6.svg?logo=amazondynamodb&logoColor=white">
+<img alt="GCP Cloud SQL" src="https://img.shields.io/badge/GCP%20Cloud%20SQL-4285F4.svg?logo=google-cloud&logoColor=white">
+<img alt="GCP Firestore" src="https://img.shields.io/badge/GCP%20Firestore-FFCA28.svg?logo=firebase&logoColor=black">
+<img alt="Azure SQL Database" src="https://img.shields.io/badge/Azure%20SQL-0078D4.svg?logo=microsoft-azure&logoColor=white">
+<img alt="Azure Cosmos DB" src="https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4.svg?logo=azure-cosmos-db&logoColor=white">
 </p>
 
 <h4>☁️ AWS Core Services</h4>
