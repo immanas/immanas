@@ -72,6 +72,13 @@ Software engineer building backend systems and cloud-native platforms designed t
   <img alt="Identity & Access Management" src="https://img.shields.io/badge/Identity%20%26%20Access%20Management-546E7A.svg?logo=auth0&logoColor=white">
 </p>
 
+<h4>🔧 Version Control & Collaboration</h4>
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=github-actions&logoColor=white">
+  <img alt="Agile / Scrum" src="https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC.svg?logo=jira&logoColor=white">
+</p>
 
 
 <h4>⚙️ DevOps & Automation</h4>
