@@ -104,6 +104,11 @@ Software engineer building backend systems and cloud-native platforms designed t
   <img alt="SQS" src="https://img.shields.io/badge/AWS%20SQS-FF4F00.svg?logo=amazonsqs&logoColor=white">
   <img alt="Athena" src="https://img.shields.io/badge/AWS%20Athena-0073BB.svg?logo=amazonathena&logoColor=white">
   <img alt="SageMaker" src="https://img.shields.io/badge/AWS%20SageMaker-1D6F42.svg?logo=amazonsagemaker&logoColor=white">
+    <!-- Advanced/Pro -->
+  <img alt="EventBridge" src="https://img.shields.io/badge/AWS%20EventBridge-FF4F8B.svg?logo=amazoneventbridge&logoColor=white">
+  <img alt="Elastic Load Balancing" src="https://img.shields.io/badge/AWS%20ELB-8C4FFF.svg?logo=amazonaws&logoColor=white">
+  <img alt="Auto Scaling" src="https://img.shields.io/badge/AWS%20Auto%20Scaling-FF9900.svg?logo=amazonaws&logoColor=white">
+
 </p>
 
 
