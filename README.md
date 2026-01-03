@@ -58,21 +58,39 @@ Software engineer building backend systems and cloud-native platforms designed t
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
 </p>
 
-<h3>🧰 Cloud & Infrastructure</h3>
+<h4>🧰 Cloud Platforms & Architecture</h4>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-  <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white">
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github-actions&logoColor=white">
-  <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazon-aws&logoColor=white">
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoft-azure&logoColor=white">
+  <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4.svg?logo=google-cloud&logoColor=white">
+
+  <img alt="Multi-Cloud Architecture" src="https://img.shields.io/badge/Multi--Cloud%20Architecture-2F80ED.svg?logo=cloud&logoColor=white">
+  <img alt="Serverless Architecture" src="https://img.shields.io/badge/Serverless%20Architecture-FF9900.svg?logo=serverless&logoColor=white">
+  <img alt="Cloud Networking" src="https://img.shields.io/badge/Cloud%20Networking-3949AB.svg?logo=internetexplorer&logoColor=white">
+  <img alt="VPC Design" src="https://img.shields.io/badge/VPC%20Design-0052CC.svg?logo=amazonaws&logoColor=white">
+  <img alt="Landing Zone Architecture" src="https://img.shields.io/badge/Landing%20Zone%20Architecture-6A1B9A.svg?logo=microsoft-azure&logoColor=white">
+  <img alt="Identity & Access Management" src="https://img.shields.io/badge/Identity%20%26%20Access%20Management-546E7A.svg?logo=auth0&logoColor=white">
 </p>
 
-<h3>🗄️ Databases and Cloud</h3>
+
+
+<h4>⚙️ DevOps & Automation</h4>
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
+  <img alt="Containerization" src="https://img.shields.io/badge/Containerization-2496ED.svg?logo=docker&logoColor=white">
+  <img alt="Container Orchestration" src="https://img.shields.io/badge/Container%20Orchestration-326CE5.svg?logo=kubernetes&logoColor=white">
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white">
+  <img alt="CI/CD Pipelines" src="https://img.shields.io/badge/CI%2FCD%20Pipelines-D24939.svg?logo=jenkins&logoColor=white">
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4.svg?logo=terraform&logoColor=white">
+  <img alt="Infrastructure as Code" src="https://img.shields.io/badge/Infrastructure%20as%20Code-623CE4.svg?logo=terraform&logoColor=white">
+  <img alt="GitOps" src="https://img.shields.io/badge/GitOps-EB5757.svg?logo=git&logoColor=white">
+  <img alt="Configuration Management" src="https://img.shields.io/badge/Configuration%20Management-0A66C2.svg?logo=ansible&logoColor=white">
+  <img alt="Linux Administration" src="https://img.shields.io/badge/Linux%20Administration-FCC624.svg?logo=linux&logoColor=black">
+</p>
+
+
+
+<h3>🗄️ Databases</h3>
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
 <img alt="AWS DynamoDB" src="https://img.shields.io/badge/AWS%20DynamoDB-4053D6.svg?logo=amazondynamodb&logoColor=white">
