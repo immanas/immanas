@@ -70,6 +70,14 @@ Software engineer building backend systems and cloud-native platforms designed t
   <img alt="VPC Design" src="https://img.shields.io/badge/VPC%20Design-0052CC.svg?logo=amazonaws&logoColor=white">
   <img alt="Landing Zone Architecture" src="https://img.shields.io/badge/Landing%20Zone%20Architecture-6A1B9A.svg?logo=microsoft-azure&logoColor=white">
   <img alt="Identity & Access Management" src="https://img.shields.io/badge/Identity%20%26%20Access%20Management-546E7A.svg?logo=auth0&logoColor=white">
+  <!-- IaC / Cloud Control Plane -->
+
+<img alt="Pulumi" src="https://img.shields.io/badge/Pulumi-8A3391.svg?logo=pulumi&logoColor=white">
+
+<img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA.svg?logo=terraform&logoColor=white">
+
+<img alt="Crossplane" src="https://img.shields.io/badge/Crossplane-326CE5.svg?logo=kubernetes&logoColor=white">
+
 </p>
 
 <h4>🔧 Version Control & Collaboration</h4>
