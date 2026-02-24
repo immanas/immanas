@@ -208,8 +208,8 @@ Software engineer building backend systems and cloud-native platforms designed t
 
 | 💼 Designation | 🏢 Organization | ⏰ Timeline |
 | :-: | :-: | :-: |
-| Software Engineering Virtual Internship | [@JPMorgan Chase(Forage)](https://www.linkedin.com/posts/me-m-gantait_jpmorgan-activity-7399905226922782720-Pnpb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZICGgBQrTuMWLb1ODABZ-c0r-oONAbnuM) | November 2025 |
-| Virtual Internship – Cloud Computing Foundations | [@AWS (Forage)](https://www.linkedin.com/posts/me-m-gantait_forage-certificate-activity-7362801002070081536-K8y2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZICGgBQrTuMWLb1ODABZ-c0r-oONAbnuM) | July 2025- August 2025 |
+| Software Engineering Virtual Internship | [@JPMorgan Chase & Co](https://www.linkedin.com/posts/me-m-gantait_jpmorgan-activity-7399905226922782720-Pnpb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZICGgBQrTuMWLb1ODABZ-c0r-oONAbnuM) | November 2025 |
+| AWS Solutions Architecture Job Simulation Virtual Internship | [@AWS](https://www.linkedin.com/posts/me-m-gantait_forage-certificate-activity-7362801002070081536-K8y2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZICGgBQrTuMWLb1ODABZ-c0r-oONAbnuM) | July 2025- August 2025 |
 
 
 # 📊 GitHub Stats:
