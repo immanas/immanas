@@ -208,7 +208,7 @@ Software engineer building backend systems and cloud-native platforms designed t
 
 | 💼 Designation | 🏢 Organization | ⏰ Timeline |
 | :-: | :-: | :-: |
-| Virtual Internship – Software Engineering Job Simulation | [@Accenture (Forage)](https://www.linkedin.com/posts/me-m-gantait_forage-certificate-activity-7362777317934292992-_Qff?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZICGgBQrTuMWLb1ODABZ-c0r-oONAbnuM) | August 2025 |
+| Virtual Internship – Software Engineering Job Simulation | [@JPMorgan Chase(Forage)](https://www.linkedin.com/posts/me-m-gantait_forage-certificate-activity-7362777317934292992-_Qff?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZICGgBQrTuMWLb1ODABZ-c0r-oONAbnuM) | November 2025 |
 | Virtual Internship – Cloud Computing Foundations | [@AWS (Forage)](https://www.linkedin.com/posts/me-m-gantait_forage-certificate-activity-7362801002070081536-K8y2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZICGgBQrTuMWLb1ODABZ-c0r-oONAbnuM) | July 2025- August 2025 |
 
 
