@@ -16,14 +16,14 @@ Software engineer building backend systems and cloud-native platforms designed t
 
 
 # 🦁 About Me :
-<img align="right" alt="Coding" width="500" height="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWljaGx4enA5bzJ4YnNiOXVqNzV3YWg0Ymp6Y2Q4MGtnbDdqcDl3biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif">
+<img align="right" alt="Coding" width="250" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWljaGx4enA5bzJ4YnNiOXVqNzV3YWg0Ymp6Y2Q4MGtnbDdqcDl3biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif">
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=mgantait&label=Profile%20views&color=0e75b6&style=flat&color=blueviolet" alt="mgantait" />
 
 - 🎓 I’m a **Final-year B.Tech CSE student | 2026 pass-out | Strong in DSA using JAVA**
 
-- 💡 Interests: **Software Developer, Java Developer, Cloud Computing, DevOps, Multicloud & Solution architec**
+- 💡 Interests: **Software Developer, Java Developer, Cloud Computing, DevOps, Solution architect**
 
 - 👨‍💻 Currently working on **hands-on projects using AWS, GCP, Azure, Python, and AI tools**
 
