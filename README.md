@@ -164,15 +164,6 @@ Software engineer building backend systems and cloud-native platforms designed t
   <img alt="Compute Engine" src="https://img.shields.io/badge/GCP%20Compute%20Engine-4285F4.svg?logo=google-cloud&logoColor=white">
   <img alt="Cloud Storage" src="https://img.shields.io/badge/GCP%20Cloud%20Storage-4285F4.svg?logo=google-cloud&logoColor=white">
   <img alt="Cloud Functions" src="https://img.shields.io/badge/GCP%20Cloud%20Functions-4285F4.svg?logo=google-cloud&logoColor=white">
-  <img alt="Cloud SQL" src="https://img.shields.io/badge/GCP%20Cloud%20SQL-4285F4.svg?logo=google-cloud&logoColor=white">
-  <img alt="Cloud Monitoring" src="https://img.shields.io/badge/GCP%20Cloud%20Monitoring-4285F4.svg?logo=google-cloud&logoColor=white">
-
-  <!-- Advanced/Pro -->
-  <img alt="Firestore" src="https://img.shields.io/badge/GCP%20Firestore-FFCA28.svg?logo=firebase&logoColor=black">
-  <img alt="Google Kubernetes Engine" src="https://img.shields.io/badge/GCP%20GKE-4285F4.svg?logo=kubernetes&logoColor=white">
-  <img alt="API Gateway" src="https://img.shields.io/badge/GCP%20API%20Gateway-4285F4.svg?logo=google-cloud&logoColor=white">
-  <img alt="Cloud IAM" src="https://img.shields.io/badge/GCP%20IAM-4285F4.svg?logo=google-cloud&logoColor=white">
-  <img alt="Pub/Sub" src="https://img.shields.io/badge/GCP%20Pub%2FSub-4285F4.svg?logo=google-cloud&logoColor=white">
 </p>
 
 
